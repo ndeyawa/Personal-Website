@@ -1,0 +1,177 @@
+#container{
+	font-family: helvetica;
+	font-size: 12pt;
+	width: 100%;
+	height: 100%;
+}
+
+#header{
+	width: 100%;
+	height: 5em;
+	background-color: olive;
+	text-align: center;
+	margin-top: -1em;
+}
+
+#header img{
+	width: 100%;
+	height: 5em;
+}
+
+#slide{
+	width: 100%;
+	height: 50%;
+}
+
+#slide img{
+	width: 100%;
+	height: 30em;
+}
+#menu h3{
+  padding: 0.5em 0em 0.5em 1em;	
+}
+
+#menu{
+  width: 19%;
+  float: left;
+  display: inline-block;
+  background-color: #9ACD32;
+  margin-right: 1em;
+  margin-top: 1em;
+}
+
+#menu li{
+  list-style: none;
+  padding: 0.5em 0em 0.5em 1em;
+}
+
+#menu li:active{
+	color: #00f;
+}
+
+#aboutme{
+	width: 59%;
+	display: inline-block;
+	margin: 0 auto;
+}
+
+#aboutme img{
+	float: left;
+	margin-right: 1em;
+	max-width: 38%;
+	max-height: 48%;
+}
+
+#education{
+	width: 59%;
+	display: inline-block;
+	margin: 0 auto;
+}
+
+#education img{
+	float: left;
+	margin-right: 1em;
+	max-width: 38%;
+	max-height: 48%;
+}
+
+#hobbies{
+	width: 59%;
+	display: inline-block;
+	margin: 0 auto;
+}
+
+#hobbies img{
+	float: left;
+	margin-right: 1em;
+	max-width: 38%;
+	max-height: 48%;
+}
+#hobbies table{
+	padding: 2em;
+	width: 50%;
+	border: 2em;
+	 
+}
+
+#hobbies thead{
+	font:bolder;
+	font-size: 17px;
+	background-color: #ccf;
+}
+
+#hobbies tfoot{
+	font: italic;
+	background-color: #ccc;
+	text-decoration: blue;
+}
+
+#hobbies table{
+	width: 50%;
+	padding: 2px;
+	border: 2px solid black;
+}
+
+#contact table{
+	width: 60%;
+	padding: 2px;
+	border: 1px solid black;
+}
+
+table tr td{
+	border: 1px solid black;
+}
+
+#contact{
+	width: 59%;
+	display: inline-block;
+	margin: 0 auto;
+}
+
+
+#skills{
+  width: 19%;
+  float: right;
+  display: inline-block;
+  background-color: #9ACD32;
+  margin-top: 1em;
+}
+
+#skills li{
+  list-style: none;
+  padding: 0.2em 0em 0.5em 1em;
+}
+
+#skills h4{
+  padding: 0.5em 0em 0.5em 1em;	
+}
+
+#footer{
+	margin-top: -1em;
+	width: 100%;
+	background-color: Gray;
+	height: 8em;
+}
+
+#footer .links{
+	width: 30%;
+	display: inline-block;
+	
+}
+
+#footer .copyright{
+	width: 30%;
+	display: inline-block;
+	margin-top: 3em;
+}
+
+#footer .social{
+	width: 30%;
+	float: right;
+	display: inline-block;
+	margin-top: 2em;
+	padding: 0.5em;
+	padding-right: 0.5em;
+
+}
+
